@@ -1,0 +1,1 @@
+This project is an NLP application that generates exam practice questions from French texts. By fine‑tuning a T5 model, the system transforms authentic French sentences into fill‑in‑the‑blank style questions to support DELF/TEF preparation. The repo includes scripts for preprocessing, training, evaluation, and testing, along with example outputs and reproducibility details.
